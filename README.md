@@ -15,7 +15,7 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=yoosefap&theme=radical&show_icons=true)](https://github.com/yoosefap) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosefap&layout=compact&theme=radical)](https://github.com/yoosefap)
 
-### Projects:
+## Projects
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=pinoox&repo=pinoox&theme=radical)](https://github.com/pinoox/pinoox)
 
