@@ -3,9 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-yoosefalipour@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yoosefalipour@gmail.com)](mailto:yoosefalipour@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Yoosef%20Alipour-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yoosefap/)](https://linkedin.com/in/yoosefap/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram:@yoosefap-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/yoosefap/)](https://t.me/yoosefap/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram:@yoosefap-blue?style=flat&logo=instagram&logoColor=white&link=https://t.me/yoosefap/)](https://t.me/yoosefap/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram:@yoosefap-blue?style=flat&logo=instagram&logoColor=white&link=https://t.me/yoosefap/)](https://instagram.com/yoosefap/)
 
-[yoosefap.com](https://t.me/yoosefap/)
+[yoosefap.com](yoosefap.com)
 </p>
 
 ## My Github Stats
