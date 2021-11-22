@@ -12,8 +12,8 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=yoosefap alt=yoosefap /> </p>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=yoosefap&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosefap&layout=compact&theme=radical)](https://github.com/yoosefap/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=yoosefap&theme=radical&show_icons=true)](https://github.com/yoosefap) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosefap&layout=compact&theme=radical)](https://github.com/yoosefap)
 
 ### Projects:
 
